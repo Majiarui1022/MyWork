@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PLC>
+           <actuator>
+                  <name>S7-1200-1214C</name>
+                  <Interface1>DIa.0</Interface1>
+                  <Interface2>DIa.1</Interface2>
+                  <Interface3>DIa.2</Interface3>
+                  <Interface4>DIa.3</Interface4>
+                  <Interface5>DIa.4</Interface5>
+                  <Interface6>DIa.5</Interface6>
+                  <Interface7>DIa.6</Interface7>
+                  <Interface8>DIa.7</Interface8>
+                  <Interface9>DIb.0</Interface9>
+                  <Interface10>DIb.1</Interface10>
+                  <Interface11>DIb.2</Interface11>
+                  <Interface12>DIb.3</Interface12>
+                  <Interface13>DIb.4</Interface13>
+                  <Interface14>DIb.5</Interface14>
+                  <Interface15>DOa.0</Interface15>
+                  <Interface16>DOa.1</Interface16>
+                  <Interface17>DOa.2</Interface17>
+                  <Interface18>DOa.3</Interface18>
+                  <Interface19>DOa.4</Interface19>
+                  <Interface20>DOa.5</Interface20>
+                  <Interface21>DOa.6</Interface21>
+                  <Interface22>DOa.7</Interface22>
+                  <Interface23>DOb.0</Interface23>
+                  <Interface24>DOb.1</Interface24>
+                  <Interface25>AI0</Interface25>
+                  <Interface26>AI1</Interface26>
+           </actuator>
+</PLC>
